@@ -1,0 +1,16 @@
+lesson_2_reflections.txt
+
+US00100L GitAndGitHub_lessons $ git init
+Initialized empty Git repository in C:/Users/US00100L/Desktop/Development/GitAndGitHub_lessons/.git/
+US00100L (master #) GitAndGitHub_lessons $ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        lesson_2_reflections.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
