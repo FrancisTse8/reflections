@@ -14,3 +14,4 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
+Staging area is where files are getting ready to be committed and working directory is where the directory where the current working files are located.
